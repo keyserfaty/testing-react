@@ -3,7 +3,6 @@
 Docs:
 
 - https://reactjs.org/docs/test-renderer.html#testrenderergetinstance
-
 - https://jestjs.io/docs/en/snapshot-testing
 
 Other links:
