@@ -2,7 +2,7 @@ import React from "react";
 import { create } from "react-test-renderer";
 import Change from ".";
 
-it("it shows the expected text when clicked", () => {
+it("changes the value when typing on the input", () => {
   const component = create(<Change />);
   const rootInstance = component.root;
 
