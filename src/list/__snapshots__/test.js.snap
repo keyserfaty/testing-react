@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`adds an item to the list 1`] = `
+<div>
+  <input
+    name="item"
+    onChange={[Function]}
+    value=""
+  />
+  <button
+    className="add"
+    onClick={[Function]}
+  >
+    + Add
+  </button>
+  <div
+    className="list"
+  >
+    List: 
+  </div>
+</div>
+`;
+
+exports[`adds an item to the list 2`] = `
+<div>
+  <input
+    name="item"
+    onChange={[Function]}
+    value="some"
+  />
+  <button
+    className="add"
+    onClick={[Function]}
+  >
+    + Add
+  </button>
+  <div
+    className="list"
+  >
+    List: 
+    <div>
+      <div>
+        some
+      </div>
+      <button
+        className="remove"
+        onClick={[Function]}
+      >
+        - Remove
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`removes an item from the list 1`] = `
+<div>
+  <input
+    name="item"
+    onChange={[Function]}
+    value=""
+  />
+  <button
+    className="add"
+    onClick={[Function]}
+  >
+    + Add
+  </button>
+  <div
+    className="list"
+  >
+    List: 
+  </div>
+</div>
+`;
+
+exports[`removes an item from the list 2`] = `
+<div>
+  <input
+    name="item"
+    onChange={[Function]}
+    value="some"
+  />
+  <button
+    className="add"
+    onClick={[Function]}
+  >
+    + Add
+  </button>
+  <div
+    className="list"
+  >
+    List: 
+    <div>
+      <div>
+        some
+      </div>
+      <button
+        className="remove"
+        onClick={[Function]}
+      >
+        - Remove
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`removes an item from the list 3`] = `
+<div>
+  <input
+    name="item"
+    onChange={[Function]}
+    value="some"
+  />
+  <button
+    className="add"
+    onClick={[Function]}
+  >
+    + Add
+  </button>
+  <div
+    className="list"
+  >
+    List: 
+  </div>
+</div>
+`;

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it shows the expected text when clicked 1`] = `
+<div>
+  <input
+    name="item"
+    onChange={[Function]}
+    value=""
+  />
+  Value: 
+  
+</div>
+`;
+
+exports[`it shows the expected text when clicked 2`] = `
+<div>
+  <input
+    name="item"
+    onChange={[Function]}
+    value="some"
+  />
+  Value: 
+  some
+</div>
+`;
