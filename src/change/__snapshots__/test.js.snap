@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`it shows the expected text when clicked 1`] = `
+exports[`tests change changes the value when typing on the input 1`] = `
 <div>
   <input
     name="item"
@@ -12,7 +12,7 @@ exports[`it shows the expected text when clicked 1`] = `
 </div>
 `;
 
-exports[`it shows the expected text when clicked 2`] = `
+exports[`tests change changes the value when typing on the input 2`] = `
 <div>
   <input
     name="item"
