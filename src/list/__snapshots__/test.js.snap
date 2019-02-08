@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`adds an item to the list 1`] = `
+exports[`tests list adds an item to the list 1`] = `
 <div>
   <input
     name="item"
@@ -21,7 +21,7 @@ exports[`adds an item to the list 1`] = `
 </div>
 `;
 
-exports[`adds an item to the list 2`] = `
+exports[`tests list adds an item to the list 2`] = `
 <div>
   <input
     name="item"
@@ -53,28 +53,7 @@ exports[`adds an item to the list 2`] = `
 </div>
 `;
 
-exports[`removes an item from the list 1`] = `
-<div>
-  <input
-    name="item"
-    onChange={[Function]}
-    value=""
-  />
-  <button
-    className="add"
-    onClick={[Function]}
-  >
-    + Add
-  </button>
-  <div
-    className="list"
-  >
-    List: 
-  </div>
-</div>
-`;
-
-exports[`removes an item from the list 2`] = `
+exports[`tests list removes an item from the list 1`] = `
 <div>
   <input
     name="item"
@@ -106,7 +85,7 @@ exports[`removes an item from the list 2`] = `
 </div>
 `;
 
-exports[`removes an item from the list 3`] = `
+exports[`tests list removes an item from the list 2`] = `
 <div>
   <input
     name="item"
